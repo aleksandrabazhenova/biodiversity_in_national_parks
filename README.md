@@ -1,4 +1,3 @@
-# biodiversity_in_national_parks
 Data wrangling and visualisation to find themes and patterns in species' conservations status.
 
 # BIODIVERSITY IN NATIONAL PARKS
