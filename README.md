@@ -82,12 +82,12 @@ of observations for each National Park:
 
 #### ANALYSIS
 
-1.1 Bar chart of species in each category
-1.2 Bar chart of species in each category that have a conservation status
-1.3 Proportion of species with a conservation status to the total number of listed species in each category
-2.1 Bar chart of unique species in each category by conservation status
-2.2 As 2.1 but stacked for better visuals
-3.1 Pie chart of proportions of each conservation status
+1.1 Bar chart of species in each category<br>
+1.2 Bar chart of species in each category that have a conservation status<br>
+1.3 Proportion of species with a conservation status to the total number of listed species in each category<br>
+2.1 Bar chart of unique species in each category by conservation status<br>
+2.2 As 2.1 but stacked for better visuals<br>
+3.1 Pie chart of proportions of each conservation status<br>
 4.1, 4.2, 4.3, 4.4 Box plot distributions of species observations for each conservation status in each national park
 
 ### DISCUSSION & EVALUATION
@@ -104,13 +104,13 @@ species category. In the case of Reptiles, Amphibians, Fish, and Nonvascular Pla
 (6 species), followed by Bird (4 species) and Fish (3 species). A small amount of ‘endangered’ unique species belong to the Amphibian and Vascular Plant category 
 (1 species each). Overall, there are 15 different ‘endangered’ unique species recorded in the data.
 
- Fish have 4 species labeled as ‘threatened’, while Mammals, Amphibians, and Vascular Plants each have 2 species with this label. 
+    Fish have 4 species labeled as ‘threatened’, while Mammals, Amphibians, and Vascular Plants each have 2 species with this label. 
 
- The vast majority of animals are labeled as ‘species of concern’. The largest proportion belongs to the Bird category (68 species), followed by Vascular Plants 
- (43 species), and Mammal (22 species). All categories have of animals have their largest proportion labeled as ‘species of concern’.
+    The vast majority of animals are labeled as ‘species of concern’. The largest proportion belongs to the Bird category (68 species), followed by Vascular Plants 
+    (43 species), and Mammal (22 species). All categories have of animals have their largest proportion labeled as ‘species of concern’.
 
- A small proportion of animals are labeled as ‘in recovery’. The belong to the Bird category (3 species) and Mammal category (1 species). None of other categories 
- represent animals with this status.
+    A small proportion of animals are labeled as ‘in recovery’. The belong to the Bird category (3 species) and Mammal category (1 species). None of other 
+    categories represent animals with this status.
 
 - Figure 3.1 shows a pie chart of all the categories combined, split by conservation status. ‘Species of Concern’ make up 83.89% of the data, while ‘endangered’ 
 and ‘threatened’ account for 8.33% and 5.56% respectively.
@@ -120,14 +120,14 @@ the ‘Species of Concern’ status is the most spread out, containing species t
 this category in Bryce National Park is 94. This indicates that there are potentially other factors that contribute to a species being labeled as ‘species of 
 concern’ other than merely the number of observations.
 
- For the ‘in recovery’ status, the median observation count is lower than for ’species of concern’ at 92, possibly owing to the fact that this category contains 
- much less data.
+    For the ‘in recovery’ status, the median observation count is lower than for ’species of concern’ at 92, possibly owing to the fact that this category contains 
+    much less data.
 
- The ‘threatened’ and ‘endangered’ status labels have median observation counts of 46 and 25 respectively, with distributions behaving much more predictably than 
- for the other two statuses.
+    The ‘threatened’ and ‘endangered’ status labels have median observation counts of 46 and 25 respectively, with distributions behaving much more predictably             
+    than for the other two statuses.
 
- For the other three National Parks, a similar picture evolves. The ‘species of concern’ distribution is spread out and overlaps the ‘in recovery’ status 
- distribution.
+    For the other three National Parks, a similar picture evolves. The ‘species of concern’ distribution is spread out and overlaps the ‘in recovery’ status 
+    distribution.
 
 ### CONCLUSIONS
 
